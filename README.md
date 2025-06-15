@@ -1,6 +1,6 @@
 # 🕰️ App-1 React: Cápsula do Tempo
 
-Um projeto que permite aos usuários deixar mensagens para o futuro, guardadas digitalmente numa interface etérea e cheia de significado. Criado com foco em suavidade, delicadeza e sentimento de nostalgia 🕰️
+Um projeto que permite aos usuários deixar mensagens para o futuro, guardadas digitalmente numa interface criada com foco em suavidade, delicadeza e sentimento de nostalgia 🕰️
 
 ## 📦 Tecnologias
 
