@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Georgia', serif;
+  color: #f3e8ff;
+  text-align: center;
+}
+
+.container {
+  margin-top: 10vh;
+  background: rgba(18, 0, 33, 0.75);
+  padding: 2rem;
+  border-radius: 16px;
+  display: inline-block;
+  box-shadow: 0 0 25px #b57edc;
+  max-width: 600px;
+  width: 90%;
+}
+
+h1 {
+  margin-bottom: 1.5rem;
+  font-size: 2.2rem;
+  color: #d9b3ff;
+  text-shadow: 1px 1px 2px #000;
+}
+
+h2 {
+  margin-top: 2rem;
+  color: #d1b1eb;
+}
+
+input,
+textarea,
+input[type="date"] {
+  padding: 0.8rem;
+  width: 90%;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  background-color: #280842;
+  color: #f3e8ff;
+}
+
+textarea {
+  height: 100px;
+  resize: none;
+}
+
+button {
+  padding: 0.7rem 1.4rem;
+  border: none;
+  background-color: #9b5de5;
+  color: white;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background-color: #7b2cbf;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+li {
+  background-color: rgba(255, 255, 255, 0.1);
+  margin-bottom: 0.8rem;
+  padding: 1rem;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  color: #e6d6f5;
+}

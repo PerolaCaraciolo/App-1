@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Cápsula do Tempo</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🕰️ Cápsula do Tempo 🕰️</h1>
+    <form id="formMensagem">
+      <input type="text" id="nome" placeholder="Seu nome" required>
+      <textarea id="mensagem" placeholder="Mensagem para o futuro" required></textarea>
+      <input type="date" id="dataEntrega" required>
+      <button type="submit">Salvar Mensagem</button>
+    </form>
+    <h2>Mensagens salvas:</h2>
+    <ul id="listaMensagens"></ul>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
